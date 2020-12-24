@@ -36,7 +36,7 @@ git clone https://github.com/rohanjn98/sentiment-analysis-sagemaker-deployment.g
 exit
 ```
 
-## Web app demo
+## Web-App Demo
 
 ![demo](./Sentiment-Analysis-Demo.gif) 
 
