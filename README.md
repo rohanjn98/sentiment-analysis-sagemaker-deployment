@@ -1,10 +1,7 @@
 # Sentiment Analysis Model Deployment Using Amazon SageMaker
 
 This is the first deployment project which is part of the MLE Nanodegree.
-The project is constructed using a RNN (Recurrent Neural Network) for the purpose of determining the sentiment of a movie review using the IMDB data set. 
-The model is developed using Amazon's SageMaker service.
-A simple web app is also developed for the user interaction.
-The web app provides the users with an interface to provide their reviews and getting an instant feedback on their review being POSITIVE or NEGATIVE.
+The project is constructed using an RNN (Recurrent Neural Network) for the purpose of determining the sentiment of a movie review using the IMDB data set. The model is developed using Amazon's SageMaker service. A simple web app is also developed for user interaction. The web app provides the users with an interface to provide their reviews and getting instant feedback on their review being POSITIVE or NEGATIVE.
 
 <br />The application architecture looks like the diagram below: 
 
